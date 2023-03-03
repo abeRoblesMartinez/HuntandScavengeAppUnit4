@@ -1,20 +1,20 @@
-# Project 4 - *Name of App Here*
+#Hunt and Scavenge
 
-Submitted by: **Your Name Here**
+Submitted by: Abraham Robles
 
-**Name of your app** is an app that ... [TODO] 
+Hunt and Scavenge is a scavenger hunt app that allows you to attach photos to activities/information about you and displays their location.  
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays list of hard-coded tasks
-- [ ] When a task is tapped it navigates the user to a task detail view
-- [ ] When user adds photo to complete the tasks, it marks the task as complete
-- [ ] When adding photo of task, the location is added
-- [ ] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [X] App displays list of hard-coded tasks
+- [X] When a task is tapped it navigates the user to a task detail view
+- [X] When user adds photo to complete the tasks, it marks the task as complete
+- [X] When adding photo of task, the location is added
+- [X] User returns to home page (list of tasks) and the status of your task is updated to complete
  
 The following **optional** features are implemented:
 
@@ -28,14 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/K6lbk1e.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Imgur](https://i.imgur.com/K6lbk1e.gifv)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
@@ -43,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Abraham Robles
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
